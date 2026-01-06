@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mohammed Afreed  
 
-📊 **Aspiring Data Analyst** | 📈 Data Visualization & BI Tools | 🔍 Data Transformation & Insights  
+📊 **Aspiring Data Analyst** | 📈 Data Visualization & BI Tools | 🔍 Data Transformation & Insights  | Tableau
 
 ---
 
@@ -11,7 +11,7 @@
 
 
 ## 📌 Featured Projects
-- 📊 [Spotify Power BI Dashboard](https://github.com/Afreed08/Spotify-Dashboard)  
+- 📊 [Spotify Power BI Dashboard](https://github.com/Afreed08/Spotify-Dashboard)
 
 
 ## 🔗 Connect with Me  
