@@ -1,89 +1,105 @@
-# 👋 Hi, I'm Mohammed Afreed
+<h1 align="center">Hi, I'm Mohammed Afreed 👋</h1>
+<h3 align="center">Cybersecurity Analyst | AI-Powered Security Systems & Intrusion Detection</h3>
 
-🔒 **Aspiring Cybersecurity Analyst** | Final-Year B.Tech Computer Engineering Student  
-🛡️ Passionate about AI/ML for threat detection, network security, intrusion detection and secure systems  
-📧 jobafreed08@gmail.com | ☎️ +968 7140 0580  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-afreed)  •  [GitHub](https://github.com/Afreed08)  •  [Resume](link-to-your-resume-if-you-have-one-hosted)
+<p align="center">
+  🛡️ Building practical, scalable solutions for threat detection, security monitoring, and applied AI &nbsp;|&nbsp; 📍 Muscat, Oman
+</p>
 
----
-
-## 🛠️ Skills
-
-**Languages**  
-• Python (Advanced)  
-• C (Intermediate)  
-• Java (Basic)
-
-**Cybersecurity**  
-Cybersecurity Incident Response • Security Hardening • SIEM tools • Intrusion Detection Systems (IDS) • Security Monitoring • Threat Intelligence (basics) • Network Protocol Analysis (TCP/IP, DNS, ICMP) • Malware & Attack Pattern Awareness • Linux Commands • Security Best Practices
-
-**Machine Learning & Data**  
-Data Cleaning & Preprocessing • Model Training & Evaluation • Network Traffic Analysis • Feature Engineering • SMOTE • Random Forest, SVM, Naive Bayes • Data Visualization • Power BI • Matplotlib, Seaborn
-
-**Other Tools**  
-Linux (basic administration) • SQL (MySQL, PostgreSQL, SQL Server) • MongoDB • Git • Excel (VLOOKUP, Pivot Tables) • Basic Cloud & Virtual Lab Environments
+<p align="center">
+  <a href="mailto:jobafreed08@gmail.com">📧 jobafreed08@gmail.com</a> •
+  ☎️ +968 7140 0580 •
+  <a href="https://www.linkedin.com/in/mohammed-afreed">LinkedIn</a> •
+  <a href="https://github.com/Afreed08">GitHub</a>
+</p>
 
 ---
 
-## 🔥 Featured Projects
+### 🧭 About Me
 
-### Hybrid Network Intrusion Detection System (NIDS)
-Real-time packet capture + hybrid signature + ML detection for improved threat accuracy  
+I'm a Cybersecurity Analyst with hands-on experience building **AI-powered security systems** — from hybrid intrusion detection engines to local RAG pipelines — with a strong interest in modern SOC operations, threat detection, and applied machine learning. Currently working as an **AI Cyberlab Analyst at Deepcytes**, engineering containerized detection prototypes for cybersecurity research.
+
+🔭 Open to internships, entry-level roles, and learning opportunities in **SOC, threat detection, and network security**.
+
+---
+
+### 🛠️ Skills
+
+**Security & Operations**
+`SIEM Tools` `CIA Triad` `Incident Response` `Zero Trust` `Cloud Security` `Security Monitoring` `Firewall Configuration` `PKI` `Digital Forensics` `Risk Assessment` `Social Engineering` `Malware & Attack Pattern Awareness` `Cryptographic Algorithms` `Security Frameworks` `IDS/NIDS (Signature & Anomaly Detection)` `IAM` `Network Security`
+
+**Tools**
+`Wireshark` `Metasploit` `Burp Suite` `Nessus` `Nmap` `FTK Imager` `Autopsy`
+
+**Languages**
+`Python` `C` `SQL` `Linux`
+
+**ML & Data**
+`Random Forest` `SVM` `Naive Bayes` `SMOTE` `scikit-learn` `Cross-validation` `FAISS` `BM25` `Power BI` `Matplotlib` `Seaborn`
+
+---
+
+### 🔥 Featured Projects
+
+**🔹 AI-Based NIDS**
+Hybrid intrusion detection system combining a 150+ rule signature engine (MITRE ATT&CK & CWE-mapped) with a Random Forest classifier spanning 12 attack categories — SQL injection, malware C2, XSS, and more. Includes a packet capture pipeline ingesting up to 2M network samples with automated preprocessing and Docker containerization for reproducible deployment.
 [→ View Repository](https://github.com/Alonewolf2004/NIDS)
 
-### Machine Learning Projects & Cleaned Datasets
-Collection of small ML projects, Jupyter notebooks, cleaned & prepared datasets for model training  
-[→ View Repository](https://github.com/Afreed08/ML-major)  
-*(recommended rename: Machine-Learning-Projects-and-Datasets)*
+**🔹 Synaptic AI**
+A retrieval-augmented generation system combining hybrid FAISS vector search + BM25 keyword scoring, reranked via CrossEncoder, and integrated with Ollama for fully local, hallucination-constrained document Q&A.
+[→ View Repository](#)
 
-### Signal Data Classification (Mumbai Hacks)
-Time-series classification with SMOTE, model comparison (Random Forest, SVM, Naive Bayes)  
+**🔹 Signal Data Classification** *(Mumbai Hacks)*
+Time-series classification pipeline applying SMOTE for class imbalance correction and k-fold cross-validation across Random Forest, SVM, and Naive Bayes — with the best-performing classifier selected for the final hackathon submission.
 [→ View Repository](https://github.com/Dacosmicgiant/mumbai-hacks)
 
-### Spotify Track Overview Dashboard
-Interactive Power BI dashboard for music streaming trends, audio features & popularity analysis  
+**🔹 Machine Learning Projects & Cleaned Datasets**
+Collection of ML projects, Jupyter notebooks, and cleaned/prepared datasets for model training.
+[→ View Repository](https://github.com/Afreed08/ML-major)
+
+**🔹 Spotify Track Overview Dashboard**
+Interactive Power BI dashboard analyzing music streaming trends, audio features, and popularity.
 [→ View Repository](https://github.com/Afreed08/Spotify-Track-Overview-PowerBI)
 
-### Netflix Content Insight Dashboard
-Power BI dashboard analyzing Netflix global content by genre, country, type  
+**🔹 Netflix Content Insight Dashboard**
+Power BI dashboard analyzing Netflix's global content catalog by genre, country, and type.
 [→ View Repository](https://github.com/Afreed08/Netflix-Content-Insight-Dashboard)
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-**AI Cyberlab Analyst** — Deepcytes (Remote, Present)  
-• Worked on AI-based cybersecurity labs, intrusion & anomaly detection simulations  
-• Analyzed network traffic & threats using Python and containerized environments  
-• Used Git/GitHub for version control and collaborative AI security model development
+**AI Cyberlab Analyst — Deepcytes** *(Remote, Dec 2025 – Apr 2026)*
+- Engineered containerized AI-driven intrusion and anomaly detection prototypes using Python and Docker, delivering reproducible lab simulation artifacts for cybersecurity research
+- Built feature engineering pipelines for network traffic analysis, integrating ML classifiers to accelerate threat detection experimentation cycles
 
-**Data Science Intern** — Corizo (Dec 2024-Feb 2025)  
-• Built ML models with reproducible pipelines, EDA, feature engineering  
-• Handled class imbalance (SMOTE), standardization, model evaluation
-
----
-
-## 🏆 Certifications
-
-• Google Cybersecurity Professional Certificate (Coursera)  
-• IT Fundamentals for Cybersecurity (IBM, Coursera)  
-• Career Essentials in Data Analysis (Microsoft, LinkedIn Learning)
+**Data Science Intern — Corizo** *(Remote, Dec 2024 – Feb 2025)*
+- Developed end-to-end classification pipelines handling class-imbalanced datasets using SMOTE across Random Forest, SVM, and Naive Bayes with stratified cross-validation
+- Produced deployment-ready artifacts and evaluation reports; applied standardization, outlier handling, and feature selection across multiple datasets
 
 ---
 
-## 🎓 Education
+### 🏆 Certifications
 
-**B.Tech Computer Engineering**  
-Pillai College of Engineering, Navi Mumbai, India  
-Aug 2022 – Present | Current CGPA: 7.8 / 10 (up to Semester 7)
-
-**Higher Secondary (CBSE)**  
-Indian School Muladha, Oman | 2022  
-Class 12: 77% | Class 10: 88%
+- **CompTIA Security+** — Jun 2026
+- **Cybersecurity Architecture, IBM** — Apr 2026
+- **Google Cybersecurity Professional Certificate** — Dec 2025
 
 ---
 
-> Learning cybersecurity one packet and one model at a time 🔐  
-Open to internships, entry-level roles, and learning opportunities in SOC, threat detection, network security.
+### 🎓 Education
 
-Thanks for visiting! Feel free to connect or star ⭐ my repositories.
+**Bachelor of Technology, Computer Engineering**
+Pillai College of Engineering, Navi Mumbai, India — CGPA: 7.93 / 10
+
+**Higher Secondary (CBSE)**
+Indian School Muladha, Oman — Class XII: 77% | Class X: 88%
+
+---
+
+### 🌐 Languages
+English • Hindi • Tamil
+
+---
+
+<p align="center"><i>Learning cybersecurity one packet and one model at a time 🔐</i></p>
+<p align="center">Thanks for visiting — feel free to connect or ⭐ a repository!</p>
