@@ -46,7 +46,7 @@ Hybrid intrusion detection system combining a 150+ rule signature engine (MITRE 
 
 **🔹 Synaptic AI**
 A retrieval-augmented generation system combining hybrid FAISS vector search + BM25 keyword scoring, reranked via CrossEncoder, and integrated with Ollama for fully local, hallucination-constrained document Q&A.
-[→ View Repository](#)
+[→ View Repository](https://github.com/Afreed08/Synaptic-AI)
 
 **🔹 Signal Data Classification** *(Mumbai Hacks)*
 Time-series classification pipeline applying SMOTE for class imbalance correction and k-fold cross-validation across Random Forest, SVM, and Naive Bayes — with the best-performing classifier selected for the final hackathon submission.
