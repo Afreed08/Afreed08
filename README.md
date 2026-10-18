@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jobafreed08@gmail.com">📧 jobafreed08@gmail.com</a> •
+  <a href="mailto:jobafreed08@gmail.com">📧 afreedmohamed26@gmail.com</a> •
   ☎️ +968 7140 0580 •
   <a href="https://www.linkedin.com/in/mohammed-afreed">LinkedIn</a> •
   <a href="https://github.com/Afreed08">GitHub</a>
