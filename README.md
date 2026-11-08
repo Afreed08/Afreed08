@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Afreed 👋</h1>
-<h3 align="center">Cybersecurity Analyst | AI-Powered Security Systems & Intrusion Detection</h3>
+<h3 align="center">AI & Software Support Engineer at TORV</h3>
 
 <p align="center">
   🛡️ Building practical, scalable solutions for threat detection, security monitoring, and applied AI &nbsp;|&nbsp; 📍 Muscat, Oman
@@ -17,8 +17,7 @@
 ### 🧭 About Me
 
 I'm a Cybersecurity Analyst with hands-on experience building **AI-powered security systems** — from hybrid intrusion detection engines to local RAG pipelines — with a strong interest in modern SOC operations, threat detection, and applied machine learning. Currently working as an **AI Cyberlab Analyst at Deepcytes**, engineering containerized detection prototypes for cybersecurity research.
-
-🔭 Open to internships, entry-level roles, and learning opportunities in **SOC, threat detection, and network security**.
+**.
 
 ---
 
